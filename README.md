@@ -13,3 +13,5 @@ The construction of the PSVD of the term-document matrix is a computationally ex
 The four methods (recomputing, folding-in, updating, folding-up) are compared in terms of average precision, CPU times, and statistical similarity with the recomputing method. The analysed database consists of 1400 documents and 225 queries, that have been preprocessed by removing anything that is not a word, and also removing words shorter than 3 letters, which we deemed to be semantically irrelevant.
 
 Similarly to the article, after creating the term-document matrix from these documents, with a tf-idf weighting, we start from the sub-matrix containing half of the documents, and simulate the adding of new documents by gradually adding the rest of the matrix. In this specific case, this is done by adding 14 or 28 documents per step.
+
+The code is commented in Italian.
