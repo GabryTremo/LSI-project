@@ -14,4 +14,6 @@ The four methods (recomputing, folding-in, updating, folding-up) are compared in
 
 Similarly to the article, after creating the term-document matrix from these documents, with a tf-idf weighting, we start from the sub-matrix containing half of the documents, and simulate the adding of new documents by gradually adding the rest of the matrix. In this specific case, this is done by adding 14 or 28 documents per step.
 
+The matrices can be obtained from the programs and the text files, but you can also just start from the workspace, which contains them already. Note that the truth matix is simply a matrix whose entry (i,j) is 1 iff the document i is relevant to the query j according to the file "truths.txt".
+
 The code is commented in Italian.
