@@ -1,0 +1,225 @@
+ what similarity laws must  obeyed when constructing aeroelastic models  heated high speed aircraft 
+ what   structural  aeroelastic problems associated with flight  high speed aircraft 
+ what problems  heat conduction  composite slabs have been solved   
+   criterion  developed  show empirically  validity  flow solutions  chemically reacting  mixtures based   simplifying assumption  instantaneous local chemical equilibrium 
+ what chemical kinetic system  applicable  hypersonic aerodynamic problems 
+ what theoretical  experimental guides   have   turbulent couette flow behaviour 
+   possible  relate  available pressure distributions   ogive forebody  zero angle  attack   lower surface pressures   equivalent ogive forebody  angle  attack 
+ what methods dash exact  approximate dash  presently available  predicting body pressures  angle  attack
+ papers  internal slip flow heat transfer studies 
+  realgas transport properties   available over  wide range  enthalpies  densities 
+   possible  find  analytical  similar solution   strong blast wave problem   newtonian approximation 
+    aerodynamic performance  channel flow ground effect machines  calculated 
+ what   basic mechanism   transonic aileron buzz 
+ papers  shocksound wave interaction 
+ material properties  photoelastic materials 
+   transverse potential flow about  body  revolution  calculated efficiently   electronic computer 
+   threedimensional problem   transverse potential flow about  body  revolution  reduced   twodimensional problem 
+  experimental pressure distributions  bodies  revolution  angle  attack available 
+ does there exist  good basic treatment   dynamics  reentry combining consideration  realistic effects with relative simplicity  results 
+  anyone formally determined  influence  joule heating  produced   induced current   magnetohydrodynamic free convection flows under general conditions 
+  does  compressibility transformation fail  correlate  high speed data  helium   
+  anyone else discover that  turbulent skin friction   over sensitive   nature   variation   viscosity with temperature 
+ what progress  been made  research  unsteady aerodynamics 
+ what   factors which influence  time required  invert large structural matrices 
+ does  practical flow follow  theoretical concepts   interaction between adjacent blade rows   supersonic cascade 
+ what   single approximate formula   displacement thickness   laminar boundary layer  compressible flow   flat plate 
+    design  ring  part ring wings  linear theory affected  thickness 
+ what application   linear theory design  curved wings 
+ what   effect  cross sectional shape   flow over simple delta wings with sharp leading edges 
+ papers  flow visualization  slender conical wings 
+ what size   plate   safely used  simulate twodimensional flow conditions over  bluff cylindrical body  finite aspect ratio 
+  find  approximate correction  thickness  slender thinwing theory 
+   interferencefree longitudinal stability measurements made using freeflight models compare with similar measurements made   lowblockage wind tunnel 
+ have wind tunnel interference effects been investigated   systematic basis 
+  there  papers dealing with acoustic wave propagation  reacting gases 
+  anyone investigated relaxation effects  gaseous heat transfer   suddenly heated wall 
+  there  theoretical methods  predicting base pressure 
+ does transition   hypersonic wake depend  body geometry  size
+    detect transition phenomena  boundary layers 
+    detect transition phenomena  hypersonic wakes 
+  anyone investigated  developed  simple model   vortex wake behind  cruciform wing 
+ what   criterion that  transonic flow around  airfoil with  round leading edge  validly analyzed   linearized transonic flow theory 
+   transonic flow around  arbitrary smooth thin airfoil  analysed   simple approximate  
+ what   details   rigorous kinetic theory  gases  chapmanenskog theory 
+  anyone investigated  effect  surface mass transfer  hypersonic viscous interactions 
+ what   combined effect  surface heat  mass transfer  hypersonic flow 
+ what   existing solutions  hypersonic viscous interactions over  insulated flat plate 
+ what controls leadingedge attachment  transonic speeds 
+   threepoint boundaryvalue problem   blasius equation  integrated numerically  using suitable transformations  without iteration   boundary conditions 
+ what   effects  small amounts   rarefaction   characteristics   boundary layers  slender bodies  revolution 
+ what   available information pertaining  boundary layers  very slender bodies  revolution  continuum flow  transverse curvature  effect 
+ what   available information pertaining   effect  slight rarefaction  boundary layer flows  slip effect 
+ what investigations have been made   flow field about  body moving through  rarefied  partially ionized    presence   magnetic field 
+    heat transfer downstream   mass transfer region effected  mass transfer   nose   blunted cone 
+  what extent   available information  incompressible boundary layers  applied  problems involving compressible boundary layers 
+  what extent  readily available steadystate aerodynamic data  utilized  predict liftingsurface flutter characteristics 
+ what   significant steady  nonsteady flow characteristics which affect  flutter mechanism 
+   possible  determine rates  forced convective heat transfer from heated cylinders  noncircular crosssection   fluid flow being along  generators 
+  much  known about boundary layer flows along noncircular cylinders 
+  there  simple   practical  method  numerical integration   mixing problem   blasius problem with threepoint boundary conditions 
+ does there exist  closedform expression   local heat transfer around  yawed cylinder 
+   around  cylinder  under what conditions  flow      velocity just outside   boundary layer  linear function   distance around  cylinder 
+ where   find pressure data  surfaces  swept cylinders 
+ cant  static deflection shapes  used  predicting flutter  place  vibrational shapes       provide  justification  means   example 
+ does  boundary layer   flat plate   shear flow induce  pressure gradient 
+   procedure  matching inner  outer solutions   viscous flow problem  applied when  main stream   shear flow 
+  series expansions  found   boundary layer   flat plate   shear flow 
+ what possible techniques  available  computing  injection distribution corresponding   isothermal transpiration cooled hemisphere 
+ what  known regarding asymptotic solutions   exact boundary layer equations 
+ previous solutions   boundary layer similarity equations 
+ experimental results  hypersonic viscous interaction 
+ what  been done about viscous interactions  relatively  reynolds number flows  particularly  high mach numbers 
+ what role does  effect  chemical reaction particularly when   equilibrium play   similitude laws governing hypersonic flows over slender aerodynamic bodies 
+  significant   possible pressure   dissociated free stream with respect   realization  hypersonic simulation  high enthalpy wind tunnels 
+   discrepancies among current analyses   vorticity effect  stagnationpoint heat transfer result primarily from  differences   viscositytemperature  assumed 
+     trust  linear viscositytemperature solution assumed  some   analyses  hypersonic shock layer   reynolds number 
+  close   comparison   shock layer theory with existing experiments    reynolds number mergedlayer regime 
+  anyone explained  kink   surge line   multistage axial compressor 
+ have  aerodynamic derivatives been measured  hypersonic mach numbers  comparison been made with theoretical work 
+  methods  measuring aerodynamic derivatives available which could  adopted    short running time facilities 
+ what  windtunnel corrections   twodimensional aerofoil mounted offcentre   tunnel 
+   kuchemanns  multhopps methods  calculating lift distributions  swept wings  subsonic flow compare with each other  with experiment 
+ what   present state   theory  quasiconical flows 
+ references   methods available  accurately estimating aerodynamic heat transfer  conical bodies  both laminar  turbulent flow 
+ what parameters  seriously influence natural transition from laminar  turbulent flow   model   wind tunnel 
+   satisfactory experimental technique  developed  measuring oscillatory derivatives  slender stingmounted models  supersonic wind tunnels 
+ what effect   boundary layer  modifying  basic inviscid flow behind  shock  neglecting effects  leading edge  corner 
+  does  satellite orbit contract under  action   drag   atmosphere  which  scale height varies with altitude 
+    flow  transonic speeds about  delta wing different from that   closelyrelated tapered sweptback wing 
+ recent data  shockinduced boundarylayer separation 
+ what interference effects  likely  transonic speeds 
+ given complete freedom   design   airplane  what procedure would  used  order  minimize sonic boom intensity    there  limit   degree  minimizing that   accomplished 
+  methaneair combustion product  used   hypersonic test medium  predict within experimental accuracies  results obtained   
+ what   theoretical heat transfer rate   stagnation point   blunt body 
+ what   theoretical heat transfer distribution around  hemisphere 
+  anyone investigated  unsteady lift distributions  finite wings  subsonic flow 
+ what information  available  dynamic response  airplanes  gusts   blasts   subsonic regime 
+ will forward  apex located controls  effective   subsonic speeds    they compare with conventional trailingedge flaps 
+ given that  uncontrolled vehicle will tumble   enters  atmosphere   possible  predict when    will stop tumbling   subsequent motion 
+ what   effects  initial imperfections   elastic buckling  cylindrical shells under axial compression 
+  does  incremental theory   deformation theory  plastic stressstrain relationship differ greatly when applied  stability problems 
+ basic dynamic characteristics  structures continuous over many spans 
+   information   buckling  sandwich sphere available 
+   load deformation characteristics   beam  obtained with  material being inelastic    uniform temperature being present 
+ what   effect   internal liquid column   breathing vibrations   cylindrical shell 
+ experimental techniques  shell vibration 
+  summarizing theoretical  experimental work   behaviour   typical aircraft structure   noise environment   possible  develop  design procedure 
+ what data  there   fatigue  structures under acoustic loading 
+ panels subjected  aerodynamic heating 
+  increasing  edge loading   plate beyond  critical value  buckling change  buckling mode 
+ have  effects   elastic edge restraint been considered  previous papers  panel flutter 
+   solution   clamped plate problem    classical theory  bending  been reduced   successive membrane boundary value problems 
+ what data exists  oscillatory aerodynamic forces  control surfaces  transonic mach numbers 
+    likely that  airforces   wing  general planform oscillating  transonic flow   determined  purely analytical methods    possible  determine  airforces   single particular planform such   rectangular   such method 
+   problem  similarity  representative investigations  aeroelastic effects  heated flow  intractable  previous investigations imply 
+ what   magnitude  distribution  lift over  cone   cylindrical portion   conecylinder configuration 
+  there  information    addition   boattail affects  normal force   body  various angles  incidence 
+ what   aerodynamic interference effects    lift  body lift   finbody combination 
+ what   effect  initial axisymmetric deviations from circularity    linear largedeflection loaddeflection response  cylinders under hydrostatic pressure 
+  previous analyses  circumferential thermal buckling  circular cylindrical shells unnecessarily involved  even inaccurate    assumed forms  buckling mode 
+ what papers  there dealing with circumferential buckling either thermal buckling    mechanical loading 
+ what analytical investigations have been made   stability  conical shells     results compare with experiment 
+   work been done  determining  nature  compressible viscous flow   straight channel 
+  what areas other than  density wind tunnel flows  viscous compressible flow  slender channels  problem  what analytical investigations have been made   stability  conical shells     results compare with experiment 
+  interference with supersonic flow  dash experimental papers 
+ thrust vector control  fluid injection dash papers 
+   possible  obtain  reasonably simple analytical solution   heat equation   exponential  time heat input 
+  anyone programmed  pump design method   highspeed digital computer 
+  anyone derived simplified pump design equation from  fundamental threedimensional equations  incompressible nonviscous flow 
+ what   flutter characteristics   exposed skin panels    vertical stabilizer when subjected  aerodynamic heating 
+ what agreement  found between theoretically predicted instability times  experimentally measured collapse times  compressed columns  creep 
+ theoretical studies  creep buckling 
+ experimental studies  creep buckling 
+   possible  correlate  results   creep buckling  widely different structures within  framework   single theory 
+ what   experimental results   creep buckling  columns 
+ what   results   creep buckling  round tubes under external pressure 
+ have  analytical studies been conducted   timetofailure mechanism associated with creep collapse   long circular cylindrical shell which exhibits both primary  secondary creep  well  elastic deformations under various distributed force systems 
+   effect  initial stresses    frequencies  vibration  circular cylindrical shells  been investigated 
+   effect   change  initial pressure   deformation    frequencies  vibration  circular cylindrical shells been investigated 
+ what   discontinuity stresses  junctions  pressurized structures 
+ what analytical solutions  available  stresses  edgeloaded shells  revolution 
+ what dome contours minimize discontinuity stresses when used  closures  cylindrical pressure vessels 
+ what general solutions   stresses  pressurized shells  revolution  available 
+  studies  pure membrane cylinders having  wall bending stiffness  maintaining their shape  virtue  internal pressure provide  insight into  behaviour  pressurized cylinders with finite wall stiffness 
+ what   best experimental data  classical small deflection theory analyses available  pressurized cylinders  bending 
+ does  membrane theory exist  which  behaviour  pressurized membrane cylinders  bending   predicted 
+ what   equations which define  stability  simply supported corrugated core sandwich cylinders 
+ papers  small deflection theory  buckling  sandwich cylinders 
+  anyone developed  analysis which accurately establishes  large deflection behaviour  conical shells 
+ what   magnitude  secondorder wingbody interference  high supersonic mach number 
+ what   best theoretical method  calculating pressure   surface   wing alone 
+    effect   boundarylayer  wing pressure  calculated  what   magnitude 
+  should  navierstokes difference equations  solved 
+ which  iterative method  solving linear elliptic difference equations  most rapidly convergent 
+ technical report  measurement  ablation during flight 
+ what qualitative  quantitative material  available  ablation materials research 
+ have flow fields been calculated  bluntnosed bodies  compared with experiment   wide range  free stream conditions  body shapes 
+ what   available properties  hightemperature  
+ what   magnitude  aerodynamic damping  flexible vibration modes   slender body  revolution characteristic  launch vehicles 
+ compressive circumferential stresses   torispherical shell reveal  possibility  buckling under internal pressure   anyone investigated  which ranges  shell parameters these stresses  sufficiently large  cause elastic buckling 
+  there  integral method  give  single  sufficiently accurate method  calculating  laminar separate point  various incompressible  compressible boundary layers with zero heat transfer 
+ what accurate  exact solutions   laminar separation point  various incompressible  compressible boundary layers with zero heat transfer  available 
+   hypersonic similarity results  applied   technique  predicting surface pressures   ogive forebody  angle  attack 
+ what determines  onset  shockinduced boundarylayer separation 
+   stable profiles   compressible boundary layer induced   moving wave known 
+  there experimental results   stability   compressible boundary layer induced   moving wave 
+ exact solution methods  calculating  ablative mass loss   material ablating  high temperatures   hypersonic flight environment 
+ what approximate solutions  known   direct problem  transonic flow   throat   nozzle   finding  flow   given nozzle 
+ what approximate solutions  known   indirect problem  transonic flow   throat   nozzle   finding  nozzle which   given axial velocity distribution 
+   users  orthodox pitotstatic tubes often find that  calibrations appear     significantly different from those formerly specified   wildly variable   reynolds numbers 
+   comparison been made between interferencefree drag measurements using freeflight models  similar measurements made   lowblockage wind tunnel 
+ solution   blasius problem with threepoint boundary conditions 
+ references  lyapunovs method   stability  linear differential equations with periodic coefficients 
+ obtain  papers  reports that contain shock detachment distance data 
+ work  flow  channels   reynolds numbers 
+ some approximate analytical heat conduction solutions using methods other than biots principle 
+ what mode  stalling   expected  each stage   axial compressor 
+   criterion been established  determining  axial compressor choking line 
+   theory  quasiconical flows been developed  supersonic linearised theory  which  upwash distribution   lifting surface apart from being  homogeneous function   coordinate  permitted  have  quite general functional form 
+  does scale height vary with altitude   atmosphere 
+  interference with supersonic flows theoretical papers 
+ effects  leadingedge bluntness   flutter characteristics  some squareplanform doublewedge airfoils  mach numbers less than 
+ what factors have been shown  have  primary influence  sonic boom strength 
+ work  smalloscillation reentry motions 
+ experimental studies  panel flutter 
+   wingbody  flow field interference effects  approximated rationally 
+  anyone analytically  experimentally investigated  effects  internal pressure   buckling  circularcylindrical shells under bending 
+ what theoretical  experimental work  been done   excitation  response  typical structures   noise environment 
+  there  design method  calculating thermal fatigue endurances  components  various types  sizes   variety  circumstances 
+ will  analysis  panel flutter based  arbitrarily assumed modes  deformation prove satisfactory      what   minimum number  modes that need  considered 
+ what   criterion  true panel flutter   opposed  small amplitude vibration arising from acoustic disturbances 
+ papers dealing with uniformly loaded sectors 
+ general methods  solving clamped plate problems 
+    analytical solution   buckling strength   uniform circular cylinder loaded  axial compression  refined    lower  buckling load 
+   problem   buckling strength  uniform circular cylinders loaded  axial compression  does  linear solution help with improving  nonlinear  
+  problem  similarity  representative investigation  aeroelastic effects   flow with  absence  heating effects 
+   fatigue damage estimated using  normal longhand method 
+  there  information available   difference   effects  various edge conditions   buckling  cylindrical shells 
+ have nonlinear large deflection analyses been conducted  shell shapes other than conical 
+  asymptotic methods sufficiently accurate   determination  prebuckling stresses  torispherical shells   must  resort  numerical methods 
+ what   nonequilibrium chemical constituents   viscous shock layer ahead   blunt reentry vehicle 
+  accurate  existing analytical theories  estimating pressure distributions  cones  incidence   hypersonic speeds 
+  simple empirical methods     estimating pressure distribution  cones 
+  viscous effects seriously modify pressure distributions 
+  anyone investigated theoretically whether surface flexibility  stabilize  laminar boundary layer 
+   subsonic  transonic flutter data measured    langley transonic dynamics tunnel compare with similar data obtained  other facilities 
+   large changes   mass ratio quantitatively affect wingflutter boundaries 
+ what   effect   shape   drag polar   lifting spacecraft   amount  reduction  maximum deceleration obtainable  continuously varying  aerodynamic coefficients during reentry 
+ what   physical significance  characteristics  separated laminar  turbulent boundary layer flows 
+  anyone analytically investigated  stabilizing influence  soft elastic cores   buckling strength  cylindrical shells subjected  nonuniform external pressure 
+ what papers  available   buckling  empty cylindrical shells under nonuniform pressure 
+ what effect  thermal stresses have   compressive buckling strength  ringstiffened cylinders 
+ what   effect  cylinder buckling   circumferential stress system that varies   axial direction 
+  nonlinear shallow shell analysis  reduced   engineering technique     matrix 
+   possible  predict  shape   shroud which will allow simulation   nose region flow field   sphere  hypersonic flow 
+ what investigations have been made   wave system created   static pressure distribution over  liquid surface 
+  anyone investigated  effect  shock generated vorticity  heat transfer   blunt body 
+ what   heat transfer   blunt body   absence  vorticity 
+ what   general effects  flow fields when  reynolds number  small 
+ find  calculation procedure applicable   incompressible laminar boundary layer flow problems having good accuracy  reasonable computation time 
+ papers applicable  this problem calculation procedures  laminar incompressible flow with arbitrary pressure gradient 
+  anyone investigated  shear buckling  stiffened plates 
+ papers  shear buckling  unstiffened rectangular plates under shear 
+  practice  close  reality   assumptions that  flow   hypersonic shock tube using nitrogen  nonviscous   thermodynamic equilibrium 
+ what design factors   used  control liftdrag ratios  mach numbers above  
